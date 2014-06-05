@@ -22,6 +22,7 @@
     "autoload": {
         "classmap": ["lib"]
     },
+    "bin": ["bin/sql_formatter.php"],
     "extra": {
         "branch-alias": {
             "dev-master": "1.3.x-dev"
